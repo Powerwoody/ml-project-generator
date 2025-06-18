@@ -5,4 +5,4 @@ Generates a folder structure for ml projects
 ## Installation:
 
 ```bash
-pip install git+https://github.com/your-username/project-generator.git
+pip install git+https://github.com/Powerwoody/ml-project-generator.git
