@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='ml-project-generator',
     version='0.1.0',
-    packages=['project_generator'],
+    packages=['ml_project_generator'],
     entry_points={
         'console_scripts': [
             'ml-project = ml_project_generator.__main__:main',
