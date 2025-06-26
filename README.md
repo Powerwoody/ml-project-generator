@@ -6,3 +6,5 @@ Generates a folder structure for ml projects
 
 ```bash
 pip install git+https://github.com/Powerwoody/ml-project-generator.git
+
+ml-project <output_path> <project_name>
