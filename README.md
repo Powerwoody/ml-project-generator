@@ -2,7 +2,7 @@
 
 Generates a folder structure for ml projects
 
-## Installation:
+## Installation and Guide:
 
 ```bash
 pip install git+https://github.com/Powerwoody/ml-project-generator.git
